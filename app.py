@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def firstTestPage():
-    return "<p>Skibidi </p>"
+    return "<p>Skibidi </p> <p>Test</p>"
